@@ -3168,7 +3168,7 @@ a.video-play-icon-without-bip:hover{
 
 .we-do-item {
     border-radius: 5px;
-    background: #4f45d9;
+    background: linear-gradient(75deg, #207FC2 10%, #4e9dc29c) !important;
     padding: 30px 20px;
     -webkit-box-shadow: 0 10px 15px 0 rgba(0,0,0,.06);
     box-shadow: 0 10px 15px 0 rgba(0,0,0,.06);
@@ -3199,7 +3199,7 @@ a.video-play-icon-without-bip:hover{
     font-size: 40px;
     line-height: 70px;
     border-radius: 100%;
-    color: #4f45d9;
+  color: #207FC2;
     position: relative;
     z-index: 9;
 }
